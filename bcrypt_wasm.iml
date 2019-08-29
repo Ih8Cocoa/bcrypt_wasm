@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../bcrypt_wasm\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../bcrypt_wasm\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../bcrypt_wasm\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../bcrypt_wasm\target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
